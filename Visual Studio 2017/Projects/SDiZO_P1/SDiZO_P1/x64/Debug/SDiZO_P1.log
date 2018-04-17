@@ -1,0 +1,8 @@
+﻿  SDiZO_P1.cpp
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\sdizo_p1.cpp(76): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  List.cpp
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\list.cpp(127): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Array.cpp
+  Generowanie kodu...
+  SDiZO_P1.vcxproj -> C:\Users\liron\Documents\Visual Studio 2017\Projects\SDiZO_P1\x64\Debug\SDiZO_P1.exe
+  SDiZO_P1.vcxproj -> C:\Users\liron\Documents\Visual Studio 2017\Projects\SDiZO_P1\x64\Debug\SDiZO_P1.pdb (Partial PDB)

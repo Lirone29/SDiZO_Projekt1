@@ -1,0 +1,31 @@
+﻿  SDiZO_P1.cpp
+  RBTree.cpp
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(17): error C2039: "displayTree": nie jest elementem członkowskim "RBTree"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.h(18): note: zobacz deklarację „RBTree”
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(23): error C2446: "!=": brak konwersji z "RBTNode **" na "RBTNode *"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(23): note: Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(80): error C2059: błąd składniowy: „}”
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(89): error C2065: "cr": niezadeklarowany identyfikator
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(89): error C2065: "cl": niezadeklarowany identyfikator
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(89): error C2065: "cp": niezadeklarowany identyfikator
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(90): error C2065: "cr": niezadeklarowany identyfikator
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(91): error C2065: "cl": niezadeklarowany identyfikator
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(92): error C2065: "cp": niezadeklarowany identyfikator
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(93): error C2228: po lewej ".color" musi być typ struct/union
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(93): note: typ to "RBTNode *"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(93): note: czy zamiast tego miał być użyty "->"?
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(94): error C2228: po lewej ".parent" musi być typ struct/union
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(94): note: typ to "RBTNode *"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(94): note: czy zamiast tego miał być użyty "->"?
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(95): error C2228: po lewej ".left" musi być typ struct/union
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(95): note: typ to "RBTNode *"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(95): note: czy zamiast tego miał być użyty "->"?
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(96): error C2228: po lewej ".right" musi być typ struct/union
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(96): note: typ to "RBTNode *"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(96): note: czy zamiast tego miał być użyty "->"?
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(97): error C2440: "=": nie można konwertować z "RBTNode **" na "RBTNode *"
+  c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\rbtree.cpp(97): note: Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+  Heap.cpp
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\heap.cpp(236): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+c:\users\liron\documents\visual studio 2017\projects\sdizo_p1\sdizo_p1\heap.cpp(174): warning C4715: "Heap::findElementRec”: niewszystkie ścieżki kodu zwracają wartość
